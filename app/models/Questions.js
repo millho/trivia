@@ -21,7 +21,6 @@ export class Question {
             <h4 class="mx-1 btn btn-primary">${this.incorrectAnswers[1]}</h4>
             <h4 class="mx-1 btn btn-primary">${this.incorrectAnswers[2]}</h4>
         </div>
-    </div>
-        `
+    </div>`
     }
 }

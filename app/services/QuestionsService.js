@@ -1,7 +1,6 @@
 import { AppState } from "../AppState.js";
 import { Question } from "../models/Questions.js";
 
-
 class QuestionsService {
     async getQuestions() {
         console.log('fetching');
